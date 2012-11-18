@@ -2,8 +2,11 @@
 
 <h3>■氏名等</h3>
 gofer (@gofer_ex) <gofer.ex.studio@gmail.com>
+
   Department of Creative Informatics,
+  
   Graduate School of Information Science and Technology,
+  
   The University of Tokyo.
 
 <h3>■概要</h3>
