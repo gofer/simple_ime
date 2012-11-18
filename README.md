@@ -1,18 +1,18 @@
-「創造情報学連携講座VII」　第1回　日本語入力と形態素解析
+<h2>「創造情報学連携講座VII」　第1回　日本語入力と形態素解析</h2>
 
-■氏名等
+<h3>■氏名等</h3>
 gofer (@gofer_ex) <gofer.ex.studio@gmail.com>
   Department of Creative Informatics,
   Graduate School of Information Science and Technology,
   The University of Tokyo.
 
-■概要
+<h3>■概要</h3>
 このプログラムは創造情報学連携講座VIIの第1回目の課題として作られた簡易IMEです。
 
-■コンパイル方法
+<h3>■コンパイル方法</h3>
 同梱されているcompile.shを実行するとmy_ime.outという実行可能形式ファイルが生成されます。
 
-■使用法
+<h3>■使用法</h3>
 my_ime.outを実行する前に、実行可能形式ファイルと同じディレクトリにresourceというディレクトリを作り、
 その中にhttp://code.google.com/p/mozc/source/browse/#svn%2Ftrunk%2Fsrc%2Fdata%2Fdictionaryにある
 dictionary[0-9].txtとconnection.txtを置きます。
@@ -22,7 +22,7 @@ dictionary[0-9].txtとconnection.txtを置きます。
 最後に、「ひらがな入力> 」というプロンプトが出たら続けて「ひらがな文字列」の入力を行い、Enterキーで確定します。
 終了する場合はCtrl + Cで終了します。（メモリリークしますが、最近の賢いOSではさほど問題にならないと思います。）
 
-■実行結果（抜粋）
+<h3>■実行結果（抜粋）</h3>
 ○うまくいく例
 
 ひらがな入力> わたしはとうきょうだいがくだいがくいんのがくせいです。
