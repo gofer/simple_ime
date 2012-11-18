@@ -1,4 +1,4 @@
-「創造情報学連携講座VII」　第1回　日本語入力と形態素解析
+<h2>「創造情報学連携講座VII」　第1回　日本語入力と形態素解析</h2>
 
 ■氏名等
 gofer (@gofer_ex) <gofer.ex.studio@gmail.com>
