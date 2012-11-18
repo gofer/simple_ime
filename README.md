@@ -1,13 +1,10 @@
 <h2>「創造情報学連携講座VII」　第1回　日本語入力と形態素解析</h2>
 
 <h3>■氏名等</h3>
-gofer (@gofer_ex) <gofer.ex.studio@gmail.com>
-
-  Department of Creative Informatics,
-  
-  Graduate School of Information Science and Technology,
-  
-  The University of Tokyo.
+gofer (@gofer_ex) <gofer.ex.studio@gmail.com> <br>
+  Department of Creative Informatics,<br>
+  Graduate School of Information Science and Technology,<br>
+  The University of Tokyo.<br>
 
 <h3>■概要</h3>
 このプログラムは創造情報学連携講座VIIの第1回目の課題として作られた簡易IMEです。
