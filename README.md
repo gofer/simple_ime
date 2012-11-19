@@ -1,5 +1,8 @@
 <h2>「創造情報学連携講座VII」　第1回　日本語入力と形態素解析</h2>
 
+<div style="width: 275px; height: 95px; background-image: url('./google_logo.png');">
+</div>
+
 <h3>■氏名等</h3>
 gofer (@gofer_ex) <gofer.ex.studio@gmail.com> <br>
   Department of Creative Informatics,<br>
