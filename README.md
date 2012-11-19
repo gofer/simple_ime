@@ -1,6 +1,6 @@
 # 「創造情報学連携講座VII」　第1回　日本語入力と形態素解析
 
-![Alt text](./google_logo.png)
+![Alt text](google_logo.png)
 
 ## ■氏名等
 gofer (@gofer_ex) <gofer.ex.studio@gmail.com>
