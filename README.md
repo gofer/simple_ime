@@ -1,11 +1,11 @@
 # 「創造情報学連携講座VII」　第1回　日本語入力と形態素解析
 
-![Alt text](./simple_ime/blob/master/google_logo.png)
+![Alt text](https://raw.github.com/gofer/simple_ime/master/google_logo.png)
 
 ## ■氏名等
-gofer (@gofer_ex) <gofer.ex.studio@gmail.com>
-  Department of Creative Informatics,
-  Graduate School of Information Science and Technology,
+gofer (@gofer_ex) <gofer.ex.studio@gmail.com>  
+  Department of Creative Informatics,  
+  Graduate School of Information Science and Technology,  
   The University of Tokyo.
 
 ## ■概要
